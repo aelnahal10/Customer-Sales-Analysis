@@ -1,9 +1,8 @@
 # Customer-Sales-Analysis
 
-Description:
+
 This project focuses on analyzing sales data and customer behavior to gain insights and inform business decisions. The analysis covers various aspects, including sales trends, top-selling products/categories, customer demographics, order statistics, and marketing insights. The project aims to provide a comprehensive understanding of the business's performance, customer preferences, and potential areas for improvement.
 
-Project Structure:
 The project is structured as follows:
 
 - Data Exploration: A detailed exploration of the dataset, including understanding the available columns, data types, and data quality checks.
